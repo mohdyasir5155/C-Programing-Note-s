@@ -1,4 +1,7 @@
-<h1 align=center>C Programing Note's</h1>
+
+![4498903](https://github.com/mohdyasir5155/C-Programing-Note-s/assets/131906472/545b1ac4-ac2f-4326-be8a-ac828868e623)
+
+<h1 align=center>🎉C Programing Note's🚀</h1>
 
 
 # Hi, I'm Mohd Yasir Sheikh! 👋

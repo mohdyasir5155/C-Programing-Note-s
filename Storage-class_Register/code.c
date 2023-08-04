@@ -5,3 +5,5 @@ int main()
     register int num2 = 99;
     printf("This is a example of register = %d", num , num2);
 }
+
+//By Mohd Yasir Sheikh

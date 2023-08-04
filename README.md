@@ -6,7 +6,7 @@
 
 # Hi, I'm Mohd Yasir Sheikh! 👋
 
-I am a student of B.Tech in Computer Science and Engineering at G.H. Raisoni College of Engineering (GHRCE) in Nagpur. With a keen interest in frontend development, I am specialized in HTML, CSS, and JavaScript
+I am a student of B.Tech in Computer Science and Engineering at G.H. Raisoni College of Engineering (GHRCE) in Nagpur. With a keen interest in frontend development, I am specialized in HTML, CSS, Java, C, C++, JavaScript, React.
 
 ## 🚀 About Me
 

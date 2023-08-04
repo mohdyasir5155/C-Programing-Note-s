@@ -6,3 +6,5 @@ int main()
 extern int a , b; 
 printf("%d",a , b);
 }
+
+//By Mohd Yasir Sheikh

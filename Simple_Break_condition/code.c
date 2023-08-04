@@ -10,3 +10,5 @@ int main()
         i++;
     }
 }
+
+//By Mohd Yasir Sheikh

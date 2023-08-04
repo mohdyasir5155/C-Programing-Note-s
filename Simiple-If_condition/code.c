@@ -7,6 +7,6 @@ int main()
     if (x > y)
     {
         printf("x is greater than y");
-    }
-    
+    } 
 }
+//By Mohd Yasir Sheikh

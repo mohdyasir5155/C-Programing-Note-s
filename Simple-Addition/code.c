@@ -8,3 +8,4 @@ int main()
     sum = num1 + num2;
     printf("The sum of addition of two number's are = (%d)", sum);   
 }
+//By Mohd Yasir Sheikh

@@ -2,7 +2,8 @@
 
 void main() {
     auto int number = 42; 
-    printf("Number: %d\n", number);
+    auto int number2 = 99;
+    printf("Number: %d\n", number , number2);
 }
 
 // By Mohd Yasir Sheikh

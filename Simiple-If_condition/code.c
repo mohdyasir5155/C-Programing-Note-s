@@ -9,4 +9,4 @@ int main()
         printf("x is greater than y");
     } 
 }
-//By Mohd Yasir Sheikh
+//By Mohd Yasir Sheikh 😉

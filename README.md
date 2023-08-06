@@ -3,6 +3,9 @@
 
 <h1 align=center>🎉C Programing Note's🚀</h1>
 
+## About
+Welcome to our C programming code samples! This comprehensive resource is designed to provide you with a clear understanding of C programming concepts, from basic syntax to more advanced topics. 
+Whether you're a beginner or looking to enhance your C skills, these notes will guide you through the fundamentals and beyond.
 
 # Hi, I'm Mohd Yasir Sheikh! 👋
 

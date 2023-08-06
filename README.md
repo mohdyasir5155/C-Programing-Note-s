@@ -1,9 +1,9 @@
-
+[![linkedin l](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-sheikh-35aab2274/)
 ![4498903](https://github.com/mohdyasir5155/C-Programing-Note-s/assets/131906472/545b1ac4-ac2f-4326-be8a-ac828868e623)
 
 <h1 align=center>🎉C Programing Note's🚀</h1>
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-sheikh-35aab2274/)
+
 
 ## 🐣About
 🌊Welcome to our C programming code samples!😀 This comprehensive resource is designed to provide you with a clear understanding of C programming concepts, from basic syntax to more advanced topics. 
